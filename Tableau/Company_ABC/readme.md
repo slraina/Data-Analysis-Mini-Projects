@@ -7,4 +7,4 @@ The dataset containing details about various products for a company ABC.
 - We can make recommendations about the entire process from generating a lead to converting the prospect into a customer. These recommendations must be backed up with
 insights from the data and presented to the CEO of the company.
 
-- A final presentation (in PDF format) containing your recommendations.
+- A final presentation (in PDF format) containing recommendations.
