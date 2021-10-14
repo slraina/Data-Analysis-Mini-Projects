@@ -11,4 +11,4 @@ Dashboard of COVID-19 data of India available till **August 21, 2021**.
     - A word Cloud of Total Number of Active Cases from a particular state.
     - A Doughut Chart and much more...
     
-    - [Dashboard Link](public.tableau.com/app/profile/sahil.raina/viz/COVID-19_Aug21/Dashboard)
+    - [Dashboard Link](https://public.tableau.com/app/profile/sahil.raina/viz/COVID-19_Aug21/Dashboard)
